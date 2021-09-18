@@ -1,0 +1,13 @@
+header h1{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+
+}
+
+
+form{
+    border: 3px solid #aff;
+}
+
+.text-input
